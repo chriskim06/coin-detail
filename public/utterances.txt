@@ -1,0 +1,24 @@
+PriceIntent what's the price of {Coin}
+PriceIntent what's the current price of {Coin}
+PriceIntent what is the price of {Coin}
+PriceIntent what is the current price of {Coin}
+PriceIntent what the price of {Coin} is
+PriceIntent what the current price of {Coin} is
+MarketIntent what's the market cap of {Coin}
+MarketIntent what's the current market cap of {Coin}
+MarketIntent what is the market cap of {Coin}
+MarketIntent what is the current market cap of {Coin}
+MarketIntent what the market cap of {Coin} is
+MarketIntent what the current market cap of {Coin} is
+ChangeIntent what's the percent change of {Coin}
+ChangeIntent what's the current percent change of {Coin}
+ChangeIntent what is the percent change of {Coin}
+ChangeIntent what is the current percent change of {Coin}
+ChangeIntent what the percent change of {Coin} is
+ChangeIntent what the current percent change of {Coin} is
+VolumeIntent what's the volume of {Coin}
+VolumeIntent what's the current volume of {Coin}
+VolumeIntent what is the volume of {Coin}
+VolumeIntent what is the current volume of {Coin}
+VolumeIntent what the volume of {Coin} is
+VolumeIntent what the current volume of {Coin} is

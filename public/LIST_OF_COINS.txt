@@ -1,0 +1,7 @@
+bitcoin
+litecoin
+ethereum
+bitcoin cash
+ripple
+dash
+monero

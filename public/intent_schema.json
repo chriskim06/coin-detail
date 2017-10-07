@@ -1,0 +1,52 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Coin",
+          "type": "LIST_OF_COINS"
+        }
+      ],
+      "intent": "PriceIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Coin",
+          "type": "LIST_OF_COINS"
+        }
+      ],
+      "intent": "MarketIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Coin",
+          "type": "LIST_OF_COINS"
+        }
+      ],
+      "intent": "ChangeIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Coin",
+          "type": "LIST_OF_COINS"
+        }
+      ],
+      "intent": "VolumeIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
